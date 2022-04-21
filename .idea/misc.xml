@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/drawable/content_bg.xml" value="0.1705" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/drawable/search_bg.xml" value="0.1705" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/drawable/splash_background.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/activity_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/fragment_details.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/fragment_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/fragment_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/news_category_rcview_sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/news_rcview_sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/scroll_rcview_sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/KyaChalRahaHai/app/src/main/res/layout/service_review_rcview_sample.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
